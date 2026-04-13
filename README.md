@@ -1,4 +1,4 @@
-# GitHub Trophies
+# GitHub Stats
 
 ![Demo](./svg_readme/stats-noir.svg)
 
