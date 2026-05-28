@@ -27,7 +27,7 @@ jobs:
 
       - name: Generate SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/generate.js
 
       - name: Commit and push
